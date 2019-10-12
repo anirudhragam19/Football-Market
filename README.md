@@ -1,11 +1,9 @@
 # Football-Market
 
 
-•	Our IDS project is about the top 250 football transfers that have taken place each year from the 2000-2001 season to the 2017-2018 season.
+•	Our IDS project is about the top 250 football transfers that have taken place each year from the 2000-2001 season to the 2018-2019 season.
 
 •	So basically football players have contracts with the team they play for. After the contract expires the player can either sign a new contract or  move to a team that is willing to pay his transfer fee mentioned in the contract.
-
-•	Our dataset contains football transfers from the 2000 - 2001 season to the 2018-2019 season with  4701 rows and  11 columns.
 
 •	The variables in the dataset are :-
 1.	Name of the player
