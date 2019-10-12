@@ -5,6 +5,8 @@
 
 •	So basically football players have contracts with the team they play for. After the contract expires the player can either sign a new contract or  move to a team that is willing to pay his transfer fee mentioned in the contract.
 
+The data set contains 4701 rows and 11 columns
+
 •	The variables in the dataset are :-
 1.	Name of the player
 2.	Age of the player
